@@ -9,7 +9,7 @@ nav {
 
 
 .mainmenubutton {
-    font-family: arial;
+    font-family: 'inter', sans-serif;
     font-weight: bold;
     color: #FFFFFF !important;
     font-size: 20px;
@@ -29,7 +29,7 @@ nav {
 
 
   .current {
-    font-family: arial;
+    font-family: 'inter', sans-serif;
     font-weight: bold;
     color: #FFFFFF !important;
     font-size: 20px;
