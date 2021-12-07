@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+nav {
+
+  margin: 25px  auto;
+  text-align: center;
+}
+
+
+
+.mainmenubutton {
+    font-family: arial;
+    font-weight: bold;
+    color: #FFFFFF !important;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0px solid #000000;
+    background: #9D47FF;
+    margin-right: 10px;
+  }
+  a.mainmenubutton {
+  text-decoration: none;  
+  }
+  a.mainmenubutton:hover {
+    color: #FFFFFF !important;
+    background: #C478FF;
+  }
+
+
+  .current {
+    font-family: arial;
+    font-weight: bold;
+    color: #FFFFFF !important;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0px solid #000000;
+    background: #cea7ff;
+    margin-right: 10px;
+    cursor: not-allowed;
+  }
+
+  a.mainmenubuttoncurrent {
+    text-decoration: none;  
+    }
+
+
