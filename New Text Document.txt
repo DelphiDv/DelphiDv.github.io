@@ -1,0 +1,4 @@
+<!-- #######  YAY, I AM THE SOURCE EDITOR! #########-->
+<h1 style="color: #bef4c3;">SquidBot</h1>
+<p>A mildly humorous discord bot i have made, it has many features.<br /><br /><br />It can talk!<br /><img src="https://media.discordapp.net/attachments/734556589658210357/917892353161822279/unknown.png" alt="It can talk!" /><img 
+src="https://media.discordapp.net/attachments/734556589658210357/917893025668141137/unknown.png" alt="" /></p>

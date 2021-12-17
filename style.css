@@ -28,6 +28,28 @@ nav {
   }
 
 
+  .GITBUTTON {
+    font-family: 'inter', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF !important;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0px solid #000000;
+    background: #2DA44E;
+    margin-right: 10px;
+  }
+  a.GITBUTTON {
+  text-decoration: none;  
+  }
+  a.GITBUTTON:hover {
+    color: #FFFFFF !important;
+    background: hsl(137, 63%, 59%);
+  }
+
+
+  
+
   .current {
     font-family: 'inter', sans-serif;
     font-weight: bold;
