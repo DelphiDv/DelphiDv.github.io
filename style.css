@@ -28,6 +28,26 @@ nav {
   }
 
 
+  .gallerybutton {
+    font-family: 'inter', sans-serif;
+    font-weight: bold;
+    color: #000000 !important;
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 0px solid #000000;
+    background: #ff1414;
+    margin-right: 10px;
+  }
+  a.mainmenubutton {
+  text-decoration: none;  
+  }
+  a.mainmenubutton:hover {
+    color: #FFFFFF !important;
+    background: #C478FF;
+  }
+
+
   .GITBUTTON {
     font-family: 'inter', sans-serif;
     font-weight: bold;
