@@ -39,12 +39,12 @@ nav {
     background: #ff1414;
     margin-right: 10px;
   }
-  a.mainmenubutton {
+  a.gallerybutton {
   text-decoration: none;  
   }
-  a.mainmenubutton:hover {
+  a.gallerybutton:hover {
     color: #FFFFFF !important;
-    background: #C478FF;
+    background: #ff4f4f;
   }
 
 
