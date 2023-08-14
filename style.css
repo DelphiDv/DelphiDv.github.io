@@ -86,5 +86,23 @@ nav {
   a.mainmenubuttoncurrent {
     text-decoration: none;  
     }
+  
+    .gallerycurrent {
+      font-family: 'inter', sans-serif;
+      font-weight: bold;
+      color: #5f5050 !important;
+      font-size: 20px;
+      padding: 5px 15px;
+      border-radius: 5px;
+      border: 0px solid #000000;
+      background: #ffa7a7;
+      margin-right: 10px;
+      cursor: not-allowed;
+    }
+  
+    a.mainmenubuttoncurrent {
+      text-decoration: none;  
+      }
+  
 
 
